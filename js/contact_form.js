@@ -15,7 +15,7 @@ function contactForm(){
         alert("Please enter a valid email.");
         return false;
      }
-	 }
+   }
    var affair = document.getElementsByTagName("textarea");
    if(affair[0].value==("")){
      alert("Please enter your reason for contact.");
