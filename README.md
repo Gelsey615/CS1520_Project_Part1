@@ -2,7 +2,7 @@
 - Course: CS 1520
 - Email: xig37@pitt.edu
 
-# Project Part 1(Please start with XinyueGuoHomePage.html)
+# Project Part 1(XinyueGuoHomePage.html is the index.html)
 
 ## Site topic : 
 **I intend to construct a self promotion website. In addition to the regular "About", "Contact" and "Resume" pages,there will be another page where information that is less professional but more personal about me will be put. Currently I'm not 100% sure what to put there, but I am a big fan of cooking, travelling and many more, so I would probably introduce some of the places I have been to, my favorite cuisines or something more. My idea of presenting these pages is to have a very simple intro page where only two tags along with a picture of me will be displayed. One tag has the text "Professional as a programmer" on it, and the other with "More about my life". When the "Professional as a programmer" tag is clicked, the website will be directed to a page displaying links to "About", "Contact" and "Resume" pages. When the "More about my life" tag is clicked, the website will jump to the page of my hobbies.**
