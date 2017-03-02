@@ -1,1 +1,92 @@
+h1 {
+   color: steelblue;
+   font-family: Cambria, Georgia, serif;
+   font-size: 250%;
+   margin-left: 50px;
+   margin-bottom: 50px;
+}
 
+#homepage-image1 {
+    float: left;
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.homepage-paragraph {
+  color: steelblue;
+  font-family: "Lucida Bright", Georgia, serif;
+  font-style: italic;
+  font-size: 150%;
+}
+
+nav ul {
+  color: steelblue;
+}
+
+nav ul li a {
+  color: steelblue;
+  font-family: "Lucida Bright", Georgia, serif;
+  font-style: italic;
+  font-size: 150%;
+}
+
+.special-indent {
+  margin-left: 500px;
+}
+
+.smaller-link {
+  font-size: 130%;
+}
+
+nav ul li a:hover {
+  color: #7FFFD4;
+}
+
+form {
+  color: steelblue;
+  font-family: "Lucida Bright", Georgia, serif;
+  font-style: italic;
+  font-size: 150%;
+  border: 2px solid #003300;
+  margin-left: 50px;
+  margin-right: 400px;
+}
+
+input {
+  height: 35%;
+  font-size: 80%
+}
+
+textarea {
+  overflow:hidden;
+  resize:none;
+}
+
+h2 {
+  color: steelblue;
+  font-family: Cambria, Georgia, serif;
+  margin-left: 50px;
+}
+
+.place {
+  float: left;
+  margin: 50px;
+}
+
+.trip {
+  width: 400px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.trip-page-paragraph {
+  width: 400px;
+  height: auto;
+  color: steelblue;
+  font-family: "Lucida Bright", Georgia, serif;
+  font-style: italic;
+  font-size: 100%;
+}
